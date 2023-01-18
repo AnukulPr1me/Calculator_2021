@@ -11,12 +11,14 @@ To run the calculator, you will need to have Node.js installed on your computer.
 Clone the repository to your local machine
 Copy code
 git clone https://github.com/AnukulPr1me/Calendar-WebPage.git
+
 Install the required dependencies
 Copy code
 npm install
 Run the application
 Copy code
 npm start
+
 Built With
 HTML
 CSS
