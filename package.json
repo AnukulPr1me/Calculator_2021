@@ -1,0 +1,16 @@
+{
+  "name": "calculator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "keywords": [],
+  "author": "Anukul",
+  "license": "ISC",
+  "discription": "hi",
+  "devDependencies": {
+    "electron": "^22.0.2"
+  }
+}
